@@ -23,8 +23,8 @@ class NavBar extends StatelessWidget {
                   fit: BoxFit.cover,
                 ),
               ),
-              accountName: Text("Nilesh Ghavate"),
-              accountEmail: Text("nilesh@dbit.in"),
+              accountName: Text("Kevin Geejo"),
+              accountEmail: Text("kevingeejo02@gmail.com"),
           ),
           ListTile(
             leading: Icon(Icons.account_circle),
