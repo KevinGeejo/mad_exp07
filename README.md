@@ -9,6 +9,6 @@ During this experiment, we acquired knowledge about
 
 ## Screenshots
 
-|![plot](./assets/screenshots/screenshot_1.png?raw=true) |
+|![plot](./assets/screenshots/screenshot_7.png?raw=true) |
 |:--:|
 | *Navigation Drawer* |
